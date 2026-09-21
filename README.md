@@ -8,13 +8,13 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset=".leetsync/stats-light.svg">
-  <img alt="Progress, languages and quick stats" src=".leetsync/stats-dark.svg">
+  <img alt="Progress, languages and quick stats" src=".leetsync/stats-light.svg">
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/calendar-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset=".leetsync/calendar-light.svg">
-  <img alt="Solve activity over the last year" src=".leetsync/calendar-dark.svg">
+  <img alt="Solve activity over the last year" src=".leetsync/calendar-light.svg">
 </picture>
 
 </div>
