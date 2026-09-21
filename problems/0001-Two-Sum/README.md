@@ -15,7 +15,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="panel-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="panel-light.svg">
-  <img alt="Topics: Array, Hash Table — best runtime 0 ms (Beats 100%), best memory 16.2 MB (Beats 6%)" src="panel-dark.svg">
+  <img alt="Topics: Array, Hash Table — best runtime 0 ms (Beats 100%), best memory 15.9 MB (Beats 6%)" src="panel-dark.svg">
 </picture>
 
 </div>
@@ -24,9 +24,9 @@
 
 | | |
 |:--|:--|
-| **Attempts** | 3 before accepted |
-| **Time to solve** | 4 min |
-| **Verdicts** | ✅ Accepted → ✅ Accepted → ✅ Accepted |
+| **Attempts** | 4 before accepted |
+| **Time to solve** | 5 min |
+| **Verdicts** | ✅ Accepted → ✅ Accepted → ✅ Accepted → ✅ Accepted |
 
 ---
 
