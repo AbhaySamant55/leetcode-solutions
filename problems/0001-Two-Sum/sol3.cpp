@@ -3,8 +3,8 @@
 // Difficulty : Easy
 // Language   : C++
 // Solution   : #3
-// Runtime    : 4 ms (Beats 53%)
-// Memory     : 16.2 MB (Beats 6%)
+// Runtime    : 7 ms (Beats 42%)
+// Memory     : 15.9 MB (Beats 6%)
 // Link       : https://leetcode.com/problems/two-sum/
 // ==========================================================
 
