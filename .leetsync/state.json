@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1790447596675,
+  "updatedAt": 1790447663637,
   "devices": {
     "c2092336-b4c3-4c74-9fc2-fbbc8cb13c5e": {
-      "lastSeen": 1790447594157
+      "lastSeen": 1790447662982
     }
   },
   "problems": {
@@ -24,11 +24,12 @@
         "Hash Table"
       ],
       "title": "Two Sum",
-      "at": 1790447594157
+      "at": 1790447662982
     }
   },
   "achievements": {
-    "first_blood": 1789986001440
+    "first_blood": 1789986001440,
+    "night_owl": 1790447597678
   },
   "sheets": {},
   "days": [
