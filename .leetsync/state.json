@@ -1,12 +1,12 @@
 {
   "v": 1,
-  "updatedAt": 1795082793614,
+  "updatedAt": 1795103901575,
   "devices": {
+    "e4d63808-1f13-449b-ad33-a6d0e2e5d739": {
+      "lastSeen": 1795103900911
+    },
     "c2092336-b4c3-4c74-9fc2-fbbc8cb13c5e": {
       "lastSeen": 1795082790854
-    },
-    "e4d63808-1f13-449b-ad33-a6d0e2e5d739": {
-      "lastSeen": 1795017916518
     },
     "cb282d38-2b9c-4b37-b615-bff927110395": {
       "lastSeen": 1792220668437
@@ -30,7 +30,7 @@
         "Hash Table"
       ],
       "title": "Two Sum",
-      "at": 1795082790854
+      "at": 1795103900911
     }
   },
   "achievements": {
